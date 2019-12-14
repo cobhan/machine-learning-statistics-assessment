@@ -1,5 +1,4 @@
-# machine-learning-statistics-assessment
-
+<h2>Machine Learning and Statistics Assessment - December 2019</h2>
 This project is based on the well-known Boston House Prices dataset and the Python packages scipy, keras and jupyter notebook.
 
 The project is split into three parts:
